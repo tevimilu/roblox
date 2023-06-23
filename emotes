@@ -15,3 +15,6 @@ $.ajax({
     "thumbnailType": 1 // 1 = Closeup (headshot), 2 = FullBody (bodyshot). Closeup and FullBody can have different configurations. 
   }) 
 });
+
+//distanceScale, emoteAssetId
+//distanceScale, emoteAssetId, thumbnailType
